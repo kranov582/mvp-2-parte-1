@@ -1,1 +1,2 @@
-# mvp-2
+# Análise da Qualidade do Sono com Modelos de Regressão
+Este projeto tem como objetivo aplicar modelos de regressão em um dataset que investiga a qualidade do sono, com informações sobre características do sono dos pacientes. O objetivo é compreender os fatores que afetam a qualidade do sono e fazer previsões com base nesses dados. O dataset foi obtido no Kaggle e contém atributos como duração do sono, eficiência do sono, consumo de cafeína e álcool, entre outros. As análises e implementações dos modelos de regressão estão disponíveis neste repositório.
