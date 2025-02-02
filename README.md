@@ -5,10 +5,6 @@
 
 Este projeto tem como objetivo analisar a qualidade do sono utilizando modelos de aprendizado de máquina do tipo regressão. A análise será realizada com base em um dataset extraído do Kaggle, contendo informações detalhadas sobre características do sono de pacientes.
 
-🔗 Link para o dataset:
-
-Sleep Efficiency Dataset - Kaggle
-
 🎯 Objetivo
 
 ✅ Explorar os dados e identificar padrões que afetam a qualidade do sono.
